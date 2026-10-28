@@ -1,3 +1,7 @@
+<img width="1861" height="980" alt="image" src="https://github.com/user-attachments/assets/73d04f64-6c47-4463-89a2-e7e5c5d9e51f" />
+<img width="1871" height="980" alt="image" src="https://github.com/user-attachments/assets/35deac17-ac31-468d-89c8-cf72ec92c33e" />
+
+
 # guide-travel-website-design
 A modern travel website landing page built with HTML and CSS.
 
